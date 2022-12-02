@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: samplewebapp 
-          image: demoacr24.azurecr.io/samplewebapp
+          image: demoacr24.azurecr.io/webapp
           ports:
           - containerPort: 80
